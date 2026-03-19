@@ -32,8 +32,6 @@
 
 🗄️ &nbsp;I use **MongoDB** for databases and love clean, fast backends
 
-🎬 &nbsp;Creator of **Swapi Video AI** — text-to-video generation web app
-
 ⚡ &nbsp;I don't just learn, I **ship real projects**
 
 🤝 &nbsp;Find me on Telegram: **[@swapibhai](https://t.me/swapibhai)**
@@ -55,7 +53,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 
