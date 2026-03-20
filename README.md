@@ -8,7 +8,9 @@
   <p><b>From Bots to Web Apps to AI Tools — I build it all.</b></p>
   
   <p>
-    [![Telegram @swapibhai](https://img.shields.io/badge/Developer-%40swapibhai-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swapibhai)
+    <a href="https://t.me/swapibhai">
+      <img src="https://img.shields.io/badge/Developer-%40swapibhai-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @swapibhai" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=swapiolds&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
   </p>
 </div>
