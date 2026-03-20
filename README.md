@@ -39,7 +39,7 @@
 ### ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,mongo,fastapi,flask,react,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,mongo&theme=dark" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
