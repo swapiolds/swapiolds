@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Swapi&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&fontAlignY=40&desc=Turning%20ideas%20into%20real%20projects%20🚀&descAlignY=68&descSize=18" width="100%"/>
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Python+Developer;Full-Stack+Web+Developer;Building+AI+Tools+%26+Bots;Always+Coding,+Always+Shipping+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Python+Developer;Full-Stack+Web+Developer;Building+AI+Tools+%26+Bots;Always+Coding,+Always+Chill+⚡" alt="Typing SVG" />
   </h1>
 
   <p><b>From Bots to Web Apps to AI Tools — I build it all.</b></p>
@@ -25,7 +25,6 @@
       <p>💡 I build <b>multiple types of projects</b> — bots, web apps, AI tools.</p>
       <p>🌐 Comfortable with full-stack — <b>HTML, CSS, JS, Python</b>.</p>
       <p>🗄️ I use <b>MongoDB</b> for databases and love clean, fast backends.</p>
-      <p>🎬 Creator of <b>Swapi Video AI</b> and <b>Swapi Song AI</b>.</p>
       <p>⚡ I don't just learn, I <b>ship real projects</b>.</p>
     </td>
     <td width="45%" align="center" style="border: none;">
