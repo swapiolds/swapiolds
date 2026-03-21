@@ -51,28 +51,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/swapiolds/swapi-song-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swapiolds&repo=swapi-song-ai&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF" width="400"/>
-  </a>
-  <a href="https://github.com/swapiolds/swapi-video-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swapiolds&repo=swapi-video-ai&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF" width="400"/>
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapiolds&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&rank_icon=percentile&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=swapiolds&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapiolds&theme=tokyo-night&hide_border=true&custom_title=Contributions&color=00F0FF&line=00F0FF" width="100%"/>
 </div>
